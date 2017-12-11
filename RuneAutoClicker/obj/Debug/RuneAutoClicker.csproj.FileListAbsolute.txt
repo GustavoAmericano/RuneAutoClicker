@@ -1,0 +1,12 @@
+C:\Users\quizaN\Documents\Visual Studio 2017\Projects\RuneAutoClicker\RuneAutoClicker\obj\Debug\RuneAutoClicker.csprojResolveAssemblyReference.cache
+C:\Users\quizaN\Documents\Visual Studio 2017\Projects\RuneAutoClicker\RuneAutoClicker\obj\Debug\RuneAutoClicker.Form1.resources
+C:\Users\quizaN\Documents\Visual Studio 2017\Projects\RuneAutoClicker\RuneAutoClicker\obj\Debug\RuneAutoClicker.Properties.Resources.resources
+C:\Users\quizaN\Documents\Visual Studio 2017\Projects\RuneAutoClicker\RuneAutoClicker\obj\Debug\RuneAutoClicker.csproj.GenerateResource.Cache
+C:\Users\quizaN\Documents\Visual Studio 2017\Projects\RuneAutoClicker\RuneAutoClicker\obj\Debug\RuneAutoClicker.csproj.CoreCompileInputs.cache
+C:\Users\quizaN\Documents\Visual Studio 2017\Projects\RuneAutoClicker\RuneAutoClicker\bin\Debug\RuneAutoClicker.exe.config
+C:\Users\quizaN\Documents\Visual Studio 2017\Projects\RuneAutoClicker\RuneAutoClicker\bin\Debug\RuneAutoClicker.exe
+C:\Users\quizaN\Documents\Visual Studio 2017\Projects\RuneAutoClicker\RuneAutoClicker\bin\Debug\RuneAutoClicker.pdb
+C:\Users\quizaN\Documents\Visual Studio 2017\Projects\RuneAutoClicker\RuneAutoClicker\obj\Debug\RuneAutoClicker.exe
+C:\Users\quizaN\Documents\Visual Studio 2017\Projects\RuneAutoClicker\RuneAutoClicker\obj\Debug\RuneAutoClicker.pdb
+C:\Users\quizaN\Documents\Visual Studio 2017\Projects\RuneAutoClicker\RuneAutoClicker\bin\Debug\WindowsInput.dll
+C:\Users\quizaN\Documents\Visual Studio 2017\Projects\RuneAutoClicker\RuneAutoClicker\bin\Debug\WindowsInput.xml
